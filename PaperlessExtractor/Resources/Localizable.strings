@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  PaperlessExtractor
+
+  Created by Scott Gruby on 3/18/23.
+  
+*/
+
+"choose_folder_title" = "Choose folder";
+"choose_folder_text" = "Select a location to save the contents of your Paperless library";
+"drop_library_here_text" = "Drop Paperless Library Here";
+"source_path_text" = "Source path: %@";
+"dest_path_text" = "Dest path: %@";
+"no_pdf_metadata" = "The following files did not have PDF metadata";
+"dest_directory_name" = "Directory name:";
