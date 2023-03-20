@@ -9,6 +9,7 @@ Caveats:
 somehow Paperless didn't write the data to the PDF, this app can't pull the information.
 - Files that don't have enough information to properly name will be placed in an Unclassified folder.
 - There has been limited testing of this app. It will not modify your original library.
+- This is a work in progress and may not be the best example of SwiftUI and/or structured concurrency; I'm using it as a learning experience.
 
 Note:
 This was written without using any source code from Paperless. It simply walks the Paperless library (which is a folder), finds all the PDFs, opens each PDF and gets the keywords in it.
